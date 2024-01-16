@@ -13,7 +13,7 @@
 }
 
 .tool:hover::before,
-.tool:focus::before 
+.tool:focus::before,
 .tool:hover::after,
 .tool:focus::after {
     opacity: 1;
