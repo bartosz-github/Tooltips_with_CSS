@@ -24,7 +24,7 @@
 .tool::before {
     border-style: solid;
     border-width: 1em .75em 0 .75em;
-    border-color: palegoldenrod transparent transparent transparent;
+    border-color: rgb(255, 250, 199) transparent transparent transparent;
     bottom: 100%;
     margin-left: -0.5em;
     content: "";
@@ -38,10 +38,10 @@
 }
 
 .tool::after {
-    background: palegoldenrod;
+    background: rgb(255, 250, 199);
     border-radius: .25em;
     bottom: 180%;
-    color: #0d6896;
+    color: #960d96;
     width: 17.5em;
     padding: 1em;
     margin-left: -8.75em;

@@ -1,11 +1,12 @@
 body {
-    background-color: mintcream;
+    background-color: rgb(243, 241, 224);
+    color: slategray;
 }
 
 h1 {
-    color: palegreen;
+    color: burlywood;
 }
 
 .tool {
-    color: palegreen;
+    color: burlywood;
 }
